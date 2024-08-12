@@ -31,6 +31,6 @@ The application runs on port 8000 by default.
 To run all the unit tests, you must get inside of the Docker container and make sure you are in **api/** directory. Execute the following commands:
 
 ```
-docker exec -it ml-model-api-challenge-web-1 bash
+docker exec -it open-weather-challenge-web-1 bash
 pytest
 ```
